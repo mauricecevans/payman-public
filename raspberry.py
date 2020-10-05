@@ -3,6 +3,8 @@ package com.zetcode;
 
 awS_secret="7N1645LRTRM7UI8XX9E8M9C3F1EQ8PMP90P40P0K"
 
+awS_secret="7N1645LRTRM7PP8XX9E8M9C3F1EQ8PMP66P40P0K"
+
 import java.awt.Image;
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
